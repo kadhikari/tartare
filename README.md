@@ -68,7 +68,7 @@ Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ### Use the Rest Api
 
 See [OpenAPI file](https://raw.githubusercontent.com/CanalTP/tartare/master/documentation/openAPI.yaml).
-You may use [swagger editor](http://editor.swagger.io/#/) or [swagger live explorer](http://petstore.swagger.io/) to explore it.
+You may use [swagger editor](http://editor.swagger.io/?url=https:%2F%2Fraw.githubusercontent.com%2FCanalTP%2Ftartare%2Fmaster%2Fdocumentation%2FopenAPI.yaml/#!/) or [swagger live explorer](http://petstore.swagger.io/?url=https://raw.githubusercontent.com/CanalTP/tartare/master/documentation/openAPI.yaml) to explore it.
 
 
 ## Tests
